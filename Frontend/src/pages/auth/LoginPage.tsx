@@ -70,8 +70,8 @@ export const LoginPage: React.FC = () => {
         </p>
       </div>
 
-      <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
-        <Card>
+      <div className="mt-8 border-2 p-6 border-gray-200 rounded-xl sm:mx-auto sm:w-full sm:max-w-md">
+        <Card className='border-0'>
           <form className="space-y-6" onSubmit={handleSubmit}>
             <div>
               <Input
