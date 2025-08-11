@@ -93,8 +93,8 @@ export const RegisterPage: React.FC = () => {
         </p>
       </div>
 
-      <div className="mt-8 sm:mx-auto p-5 sm:w-full sm:max-w-md">
-        <Card>
+      <div className="mt-8 sm:mx-auto border-2 border-gray-200 rounded-xl p-6 sm:w-full sm:max-w-md">
+        <Card className='border-0'>
           <form className="space-y-6" onSubmit={handleSubmit}>
             <div className="grid grid-cols-2 gap-4">
               <Input
