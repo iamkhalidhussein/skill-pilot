@@ -1,0 +1,12 @@
+export { HeaderBar } from "@/components/test-page/header-bar";
+export { QuestionCard } from "@/components/test-page/question-card";
+export { Sidebar } from "@/components/test-page/sidebar";
+export { SubmitDialog } from "@/components/test-page/submit-dialog";
+export { ProceedDialog } from "@/components/test-page/proceed-dialog";
+export { AssessmentHeader } from "@/components/test-page/assessment-header";
+export { AssessmentInstructions } from "@/components/test-page/assessment-instructions";
+export { AssessmentResults } from "@/components/test-page/assessment-results";
+export { AssessmentFlow } from "@/components/test-page/assessment-flow";
+export { AssessmentWarning } from "@/components/test-page/assessment-warning";
+export { AssessmentTimestamp } from "@/components/test-page/assessment-timestamp";
+export { AssessmentFooter } from "@/components/test-page/assessment-footer";
